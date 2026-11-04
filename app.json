@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "حساب افغانستان",
+    "slug": "hesab-afghanistan",
+    "version": "5.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "package": "af.hesab.app",
+      "permissions": []
+    }
+  }
+}

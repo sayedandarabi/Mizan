@@ -1,0 +1,12 @@
+حساب افغانستان V6 — بسته یک‌پارچه برای TRAE IDE
+
+۱) همین پوشه را در TRAE با Open Folder باز کنید.
+۲) فایل README_DARI_V6.md را بخوانید.
+۳) پیش‌نیازها را نصب کنید: Node.js 20+, JDK 17, Android SDK Platform Tools, Android SDK Platform/Build Tools.
+۴) ترمینل TRAE را در همین پوشه باز کنید.
+۵) دستور ساخت:
+   powershell -ExecutionPolicy Bypass -File .\BUILD_DEBUG_TRAE.ps1
+۶) خروجی:
+   android\app\build\outputs\apk\debug\app-debug.apk
+
+تمام سورس، راهنما و اسکریپت ساخت در همین پوشه است. Android SDK، JDK و بسته‌های npm/Gradle به دلیل حجم، جواز و دانلود نسخه‌های مناسب، داخل ZIP جاسازی نشده‌اند و باید یک‌بار نصب/دانلود شوند.
